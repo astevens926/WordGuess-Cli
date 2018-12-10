@@ -1,0 +1,23 @@
+{
+  "name": "wordguess-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astevens926/WordGuess-Cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astevens926/WordGuess-Cli/issues"
+  },
+  "homepage": "https://github.com/astevens926/WordGuess-Cli#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "random-words": "^1.1.0"
+  }
+}
